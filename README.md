@@ -1,7 +1,7 @@
 # Dogs-vs-Cats
 
-**Dependencies**
--Python
--Jupyter notebook
--PyQt
+**Dependencies:**
+- Python
+- Jupyter notebook
+- PyQt
 -
