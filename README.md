@@ -5,4 +5,4 @@
 - Jupyter notebook
 - PyQt for GUI
 
-*Install datast from https://www.kaggle.com/c/dogs-vs-cats and save as Data folder in same folder.*
+*Install dataset from https://www.kaggle.com/c/dogs-vs-cats and save as 'Data' folder in same folder.*
